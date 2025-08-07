@@ -4,6 +4,7 @@ Mini Project: Agricultural Price Prediction
 This project applies various machine learning models to predict modal prices of agricultural commodities using market data. The workflow includes data preprocessing, exploratory analysis, and regression modeling.
 
 ## Dataset
+Dataset: https://drive.google.com/file/d/16z3VCbw-0AuG5wMvtTXouXy1iUTJgB_r/view?usp=sharing
 
 The dataset contains agricultural market information with features such as:
 - State Name
@@ -84,7 +85,3 @@ Mini-project/
 
 Developed by yolo4123.
 
-Feel free to modify this README as you see fit! If you want to add usage examples, model comparison plots, or more details, let me know.
----
-
-If you want to update or customize the README, please specify what sections or content you'd like to add!
