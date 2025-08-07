@@ -1,4 +1,3 @@
----
 # Mini-project
 Mini Project: Agricultural Price Prediction
 
