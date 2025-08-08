@@ -83,5 +83,5 @@ Mini-project/
 
 ## Credits
 
-Developed by yolo4123.
+Developed by Yasmeen, R.Tarini, N.Saanvi.
 
